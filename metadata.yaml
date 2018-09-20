@@ -1,0 +1,29 @@
+_repo: Skraddarne-i-Greiffenhagen-Julberattelse-fran-trettioariga-kriget_52772
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Åberg, J. O. (Johan Olof)
+    aliases:
+    - Åberg, Johann Olaf
+    - Åberg, Jon Olof
+    - Aberg, J. O. (Jon Olof)
+    birthdate: 1843
+    deathdate: 1898
+    gutenberg_agent_id: '35481'
+    url: http://www.gutenberg.org/2009/agents/35481
+    wikipedia: http://fi.wikipedia.org/wiki/Johan_Olof_%C3%85berg
+description: ''
+gutenberg_issued: '2016-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52772'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Skräddarne i Greiffenhagen: Julberättelse från trettioåriga kriget'
+url: http://www.gutenberg.org/ebooks/52772
