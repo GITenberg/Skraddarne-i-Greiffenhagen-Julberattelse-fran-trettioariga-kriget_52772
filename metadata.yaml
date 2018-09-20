@@ -1,5 +1,8 @@
 _repo: Skraddarne-i-Greiffenhagen-Julberattelse-fran-trettioariga-kriget_52772
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Åberg, J. O. (Johan Olof)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35481
     wikipedia: http://fi.wikipedia.org/wiki/Johan_Olof_%C3%85berg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52772#Skraddarne-i-Greiffenhagen-Julberattelse-fran-trettioariga-kriget
 gutenberg_issued: '2016-08-10'
 gutenberg_type: Text
 identifiers:
